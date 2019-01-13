@@ -1,3 +1,18 @@
+# Project Infinite Loop
+
+Follow instruction to start and modify this project. 
+Author: Nikola Jovanovic
+Year: 2019
+
+
+
+Build with:
+
+ Bootstrap, JS, JQuery, HTML, CSS
+
+
+
+
 # Simple Gulp with SASS template
 
 This is a very simple document startup template. We have gulp with sass set up. We also have autoprefixer and browserSync installed. There are no unnecessary packages and no meddling with your JS or images.
