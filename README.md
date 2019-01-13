@@ -1,4 +1,4 @@
-# Project Infinite Loop
+#  Project Infinite Loop
 
 Follow instruction to start and modify this project. 
 Author: Nikola Jovanovic
