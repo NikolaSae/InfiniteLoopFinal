@@ -10,7 +10,7 @@ Build with:
 
  Bootstrap, JS, JQuery, HTML, CSS
 
-
+Compiled files from css,js,vendor folders
 
 
 # Simple Gulp with SASS template
