@@ -1,8 +1,5 @@
 ### My Custom Ignore List ###
 node_modules
-css
-js
-vendor
 package-lock.json
 
 
